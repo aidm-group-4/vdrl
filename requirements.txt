@@ -1,0 +1,11 @@
+pydantic
+setuptools
+numpy
+minigrid
+gymnasium
+gurobipy
+torch
+stable_baselines3
+scikit-learn
+tqdm
+joblib

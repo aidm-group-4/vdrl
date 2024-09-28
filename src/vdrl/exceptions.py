@@ -1,0 +1,2 @@
+class IncorrectStateDefinition(Exception):
+    pass
